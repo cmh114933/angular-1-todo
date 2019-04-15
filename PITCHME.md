@@ -2,15 +2,15 @@
 
 +++
 
-generate a todo list
- - use divs
- - list kept in js object or array
-default color is white with box shadow
-when you click an item,
- - bgColor will toggle between white and black
- - text color will toggle between black and white
-when you hover over an item
- - bgColor will become blue
+- generate a todo list
+    - use divs
+    - list kept in js object or array
+- default color is white with box shadow
+- when you click an item,
+     - bgColor will toggle between white and black
+     - text color will toggle between black and white
+- when you hover over an item
+     - bgColor will become blue
 
  ---
 

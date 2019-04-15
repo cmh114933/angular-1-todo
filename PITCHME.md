@@ -12,7 +12,7 @@
 - when you hover over an item
      - bgColor will become blue
 
- ---
+---
 
  ### Component ( Initialization and State)
  - Give it a `title`, and a list of tasks
